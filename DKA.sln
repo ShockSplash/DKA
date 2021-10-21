@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DKA", "DKA\DKA.csproj", "{4884B519-194E-464F-AD4E-858535ABEEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4884B519-194E-464F-AD4E-858535ABEEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4884B519-194E-464F-AD4E-858535ABEEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4884B519-194E-464F-AD4E-858535ABEEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4884B519-194E-464F-AD4E-858535ABEEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A50AFD-A22F-4D5E-8279-1706EC21D77B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\DKA\DKA\bin\Debug\net5.0\DKA.exe
+C:\Users\user\source\repos\DKA\DKA\bin\Debug\net5.0\DKA.deps.json
+C:\Users\user\source\repos\DKA\DKA\bin\Debug\net5.0\DKA.runtimeconfig.json
+C:\Users\user\source\repos\DKA\DKA\bin\Debug\net5.0\DKA.runtimeconfig.dev.json
+C:\Users\user\source\repos\DKA\DKA\bin\Debug\net5.0\DKA.dll
+C:\Users\user\source\repos\DKA\DKA\bin\Debug\net5.0\ref\DKA.dll
+C:\Users\user\source\repos\DKA\DKA\bin\Debug\net5.0\DKA.pdb
+C:\Users\user\source\repos\DKA\DKA\obj\Debug\net5.0\DKA.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DKA\DKA\obj\Debug\net5.0\DKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DKA\DKA\obj\Debug\net5.0\DKA.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DKA\DKA\obj\Debug\net5.0\DKA.AssemblyInfo.cs
+C:\Users\user\source\repos\DKA\DKA\obj\Debug\net5.0\DKA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DKA\DKA\obj\Debug\net5.0\DKA.dll
+C:\Users\user\source\repos\DKA\DKA\obj\Debug\net5.0\ref\DKA.dll
+C:\Users\user\source\repos\DKA\DKA\obj\Debug\net5.0\DKA.pdb
+C:\Users\user\source\repos\DKA\DKA\obj\Debug\net5.0\DKA.genruntimeconfig.cache
